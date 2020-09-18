@@ -1,4 +1,4 @@
-## Front-end
+## Front-end - Testando o Framer Motion
 
 O front do app foi desenvolvido com [ReactJS](https://pt-br.reactjs.org/).
 
